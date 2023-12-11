@@ -27,7 +27,7 @@
 Параллельно изучаю React, Node.JS, PHP, английский язык.
 
 Мои проекты:  
-1. [Шуточная главная страница](https://dunaevvk.github.io/Joke_spravochnik/)  HTML, CSS [Описание и исходники](https://github.com/DunaevVK/Joke_spravochnik)
+1. [Шуточная главная страница](https://dunaevvk.github.io/Joke_spravochnik/)  HTML, CSS [Описание и исходники](https://github.com/DunaevVK/Joke_spravochnik)  
    На данном проекте я разобрался как создаётся, пишется и изменяется анимация и адаптировал под свои запросы.
 2. Телефонный справочник организации [Описание и исходники](https://github.com/DunaevVK/Spravochnik) [Ссылка](https://dunaevvk.github.io/Spravochnik/) HTML, CSS (SASS, SCSS)
 3. Валидация формы [Описание и исходники](https://github.com/DunaevVK/Form_validation) [Ссылка](https://dunaevvk.github.io/Form_validation/) HTML, CSS, JavaScript
