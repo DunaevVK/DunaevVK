@@ -45,6 +45,6 @@
 6. [Новый обмен валюты](https://dunaevvk.github.io/Currency_Vue_PapperCSS/) HTML, фреймворк PapperCSS, JavaScript, Vue 2(Option API)  
    На данном проекте я использовал основные возможности **Vue** (компоненты, директивы v-for, v-bind, v-on, хуки жизненного цикла, $emit, props), для верстки использовался фреймворк PapperCSS  
   [Описание и исходники](https://github.com/DunaevVK/Currency_Vue_PapperCSS) 
-7. !Учебный проект! [Коктейли](https://dunaevvk.github.io/cocktails/) HTML, CSS, фреймворк Element Plus, JavaScript, Vue.js (Composition API), Vue Router, Pinia
-   Научился использовать все основные технологии
+7. !Учебный проект! [Коктейли](https://dunaevvk.github.io/cocktails/) HTML, CSS, фреймворк Element Plus, JavaScript, Vue.js (Composition API), Vue Router, Pinia  
+   Научился использовать все основные технологии Vue (Composition API, Vue Router, Pinia)  
   [Описание и исходники](https://github.com/DunaevVK/cocktails)
