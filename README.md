@@ -51,6 +51,6 @@
    Научился использовать все основные технологии Vue (Composition API, Vue Router, Pinia)  
   [Описание и исходники](https://github.com/DunaevVK/cocktails)
 8. [Сдача теста](https://dunaevvk.github.io/test/)  
-   На данном проекте я изспользовал все доступные мне технологии: HTML, CSS, фреймворк Element Plus (кастомизировал элементы), JavaScript, Vue.js (Composition API), Vue Router, Pinia  
+   На данном проекте я использовал все доступные мне технологии: HTML, CSS, фреймворк Element Plus (кастомизировал элементы), JavaScript, Vue.js (Composition API), Vue Router, Pinia  
   
   
