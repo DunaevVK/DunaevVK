@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dunaevvk)
 
 Меня зовут Владимир! Я - frontend-разработчик.  
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
