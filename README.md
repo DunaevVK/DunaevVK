@@ -31,28 +31,28 @@
 ### Мои проекты:  
 1. [Продажа кухонь](https://dunaevvk.github.io/test_kitchen/)  
    Тестовый проект на собеседование. На данном проекте я использовал: Figma, HTML (Резиновая вёрстка, PixelPerfect), CSS (SCSS), фреймворк анимации Funcybox (кастомизировал элементы), JavaScript.
-1. [Шуточная главная страница](https://dunaevvk.github.io/Joke_spravochnik/)  HTML, CSS  
+2. [Шуточная главная страница](https://dunaevvk.github.io/Joke_spravochnik/)  HTML, CSS  
    На данном проекте я разобрался как создаётся, пишется и изменяется анимация и адаптировал под свои запросы.  
    [Описание и исходники](https://github.com/DunaevVK/Joke_spravochnik) 
-2. [Телефонный справочник организации](https://dunaevvk.github.io/Spravochnik/) HTML, CSS (SASS, SCSS)  
+3. [Телефонный справочник организации](https://dunaevvk.github.io/Spravochnik/) HTML, CSS (SASS, SCSS)  
    Создан каркас сайта на HTML, CSS, для дальнейшего создания приложения на Vue.  
     [Описание и исходники](https://github.com/DunaevVK/Spravochnik)
-3. [Валидация формы](https://dunaevvk.github.io/Form_validation/) HTML, CSS, JavaScript  
+4. [Валидация формы](https://dunaevvk.github.io/Form_validation/) HTML, CSS, JavaScript  
    Создана форма с реактивной проверкой введенных данных.  
    [Описание и исходники](https://github.com/DunaevVK/Form_validation) 
-4. [Апартаменты](https://dunaevvk.github.io/Apartment/) HTML, CSS, JavaScript  
+5. [Апартаменты](https://dunaevvk.github.io/Apartment/) HTML, CSS, JavaScript  
    Создан каркас сайта на HTML, CSS, для дальнейшего создания приложения на Vue.  
     [Описание и исходники](https://github.com/DunaevVK/Apartment) 
-5. [Обмен валюты](https://dunaevvk.github.io/Currency_function/) HTML, CSS, JavaScript  
+6. [Обмен валюты](https://dunaevvk.github.io/Currency_function/) HTML, CSS, JavaScript  
    На данном проекте я использовал основные возможности JavaScript (циклы, функции, условные операторы), API   
      [Описание и исходники](https://github.com/DunaevVK/Currency_function)
-6. [Новый обмен валюты](https://dunaevvk.github.io/Currency_Vue_PapperCSS/) HTML, фреймворк PapperCSS, JavaScript, Vue 2(Option API)  
+7. [Новый обмен валюты](https://dunaevvk.github.io/Currency_Vue_PapperCSS/) HTML, фреймворк PapperCSS, JavaScript, Vue 2(Option API)  
    На данном проекте я использовал основные возможности **Vue** (компоненты, директивы v-for, v-bind, v-on, хуки жизненного цикла, $emit, props), для верстки использовался фреймворк PapperCSS  
   [Описание и исходники](https://github.com/DunaevVK/Currency_Vue_PapperCSS) 
-7. !Учебный проект! [Коктейли](https://dunaevvk.github.io/cocktails/) HTML, CSS, фреймворк Element Plus, JavaScript, Vue.js (Composition API), Vue Router, Pinia  
+8. !Учебный проект! [Коктейли](https://dunaevvk.github.io/cocktails/) HTML, CSS, фреймворк Element Plus, JavaScript, Vue.js (Composition API), Vue Router, Pinia  
    Научился использовать все основные технологии Vue (Composition API, Vue Router, Pinia)  
   [Описание и исходники](https://github.com/DunaevVK/cocktails)
-8. [Сдача теста](https://dunaevvk.github.io/test/)  
+9. [Сдача теста](https://dunaevvk.github.io/test/)  
    На данном проекте я использовал все доступные мне технологии: HTML, CSS, фреймворк Element Plus (кастомизировал элементы), JavaScript, Vue.js (Composition API), Vue Router, Pinia  
   
   
