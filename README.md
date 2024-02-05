@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dunaevvk@gmail.com)
 
 Меня зовут Владимир! Я - frontend-разработчик.  
-Обладаю 3-летним опытом в разработке. Мой опыт включает в себя разработку сайтов и приложений для внутренних нужд компании и отдела.  
+Обладаю 3-летним опытом в разработке. Мой опыт включает в себя разработку сайтов и приложений для внутренних нужд компании и отдела, pet-проекты.  
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
