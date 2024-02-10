@@ -30,8 +30,8 @@
 Параллельно изучаю React, Node.JS, PHP, английский язык.
 
 ### Мои проекты:  
-1. [Продажа кухонь](https://dunaevvk.github.io/test_kitchen/)  
-   Тестовый проект на собеседование. На данном проекте я использовал: Figma, HTML (Резиновая вёрстка, PixelPerfect), CSS (SCSS), фреймворк анимации Funcybox (кастомизировал элементы), JavaScript.
+1. [Продажа кухонь](https://dunaevvk.github.io/kitchen/)  
+   Тестовый проект на собеседование. На данном проекте я использовал: Figma, HTML (Адаптивная вёрстка, PixelPerfect), CSS (SCSS), фреймворк анимации Funcybox (кастомизировал элементы), JavaScript.
 2. [Шуточная главная страница](https://dunaevvk.github.io/Joke_spravochnik/)  HTML, CSS  
    На данном проекте я разобрался как создаётся, пишется и изменяется анимация и адаптировал под свои запросы.  
    [Описание и исходники](https://github.com/DunaevVK/Joke_spravochnik) 
